@@ -6,7 +6,7 @@ public class Documentary extends Movie {
 
     public Documentary(String title, Rating maturityRating) {
         super(title, maturityRating);
-        setGenre(Genre.DOCUMENTATION);
+        setGenre(Genre.DOCUMENTARY);
     }
 
     public String getTopic() {

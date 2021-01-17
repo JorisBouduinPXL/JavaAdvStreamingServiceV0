@@ -1,4 +1,4 @@
-package be.pxl.ja.opdracht1;
+package be.pxl.ja.streamingservice.model;
 
 import java.time.LocalDate;
 
