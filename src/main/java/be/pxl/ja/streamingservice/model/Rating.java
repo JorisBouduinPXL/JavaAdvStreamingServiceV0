@@ -15,4 +15,8 @@ public enum Rating {
 
     Rating() {
     }
+
+    public int getMinAge(){
+        return minAge;
+    }
 }
